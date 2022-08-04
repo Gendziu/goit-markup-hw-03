@@ -112,12 +112,10 @@ p{
     letter-spacing: 0.02em;
     color:var(--title-text-color);
     text-decoration: none;
+    padding-bottom: 32px;
+    padding-top: 32px;
+    }
     
-    }
-    .contact-links .item{
-        padding-bottom: 32px;
-        padding-top: 32px;
-    }
 .contact-links .item:not(:last-child){
     margin-right:50px;
 }
